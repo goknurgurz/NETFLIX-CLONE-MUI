@@ -13,4 +13,5 @@ Netflix Clone App built with React and MUI.
 - User can search for movies and TV shows on TMDb
 - User can the see upcoming and trending movies. Data updates weekly
 
-## Screen Gif
+
+ 
